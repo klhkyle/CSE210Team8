@@ -1,7 +1,7 @@
 # CSE210Team8
 ##  Kenneth :  _kyl03001@byui.edu_   
 ## Cai :  _caiwoods11@byui.edu_
-## Alex :  _ENTER EMAIL HERE_
+## Alex : cha21080@byui.edu
 ### 1/21/2022
 
 <br>
